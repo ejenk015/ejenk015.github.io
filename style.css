@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(images/BackgroundImage.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(BackgroundImage.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -377,7 +377,7 @@ font-size: 30px;
 
 .row {
     display: flex;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(images/BackgroundImage.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(BackgroundImage.jpg);
     border: 2px solid gold;
 }
   
